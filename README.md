@@ -5,4 +5,4 @@ Human.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=6bir)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=6bir&mode=weekly)](https://git.io/streak-stats)
 
-https://visitor-badge.glitch.me/badge?page_id=6bir.visitor-badge
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=6bir&bg_color=ffffff&color=4c689e&line=3db0c7&point=25536f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
